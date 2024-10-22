@@ -62,7 +62,7 @@ Below are various test cases performed on the calculator:
 
 - **Test Case 2**: Basic Subtraction
 
-  - ![Basic Subtraction](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/Subtraction.png)
+  - ![Basic Subtraction](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/subtraction.png)
 
 - **Test Case 3**: Basic Multiplication
  
