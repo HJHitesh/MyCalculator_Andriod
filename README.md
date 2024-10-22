@@ -57,22 +57,18 @@ For questions or feedback, please reach out to:
 Below are various test cases performed on the calculator:
 
 - **Test Case 1**: Basic Addition
-  - **Input**: 5 + 3
-  - **Expected Output**: 8
+
   -![Basic Addition](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/Addition.png)
 
 - **Test Case 2**: Basic Subtraction
-  - **Input**: 10 - 4
-  - **Expected Output**: 6
+
   - ![Basic Subtraction](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/Subtraction.png)
 
 - **Test Case 3**: Basic Multiplication
-  - **Input**: 6 * 5
-  - **Expected Output**: 30
+ 
   - ![Basic Multiplication](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/Multiplication.png)
 
 - **Test Case 4**: Basic Division
-  - **Input**: 20 / 4
-  - **Expected Output**: 5
+
   - ![Basic Division](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/Division.png)
 
