@@ -52,23 +52,27 @@ For questions or feedback, please reach out to:
 
 ## Functions
 
+## Testing
+### Test Cases
+Below are various test cases performed on the calculator:
+
 - **Test Case 1**: Basic Addition
   - **Input**: 5 + 3
   - **Expected Output**: 8
-  - ![Basic Addition](screenshots/test_case_1.png)
+  -![Basic Addition](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/Addition.png)
 
-- **Test Case 2**: Memory Add
-  - **Input**: 10, M+
-  - **Expected Output**: Memory should now contain 10
-  - ![Memory Add](screenshots/test_case_2.png)
+- **Test Case 2**: Basic Subtraction
+  - **Input**: 10 - 4
+  - **Expected Output**: 6
+  - ![Basic Subtraction](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/Subtraction.png)
 
-- **Test Case 3**: Percentage Calculation
-  - **Input**: 200 * 10%
-  - **Expected Output**: 20
-  - ![Percentage Calculation](screenshots/test_case_3.png)
+- **Test Case 3**: Basic Multiplication
+  - **Input**: 6 * 5
+  - **Expected Output**: 30
+  - ![Basic Multiplication](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/Multiplication.png)
 
-- **Test Case 4**: Clear Functionality
-  - **Input**: 10, C (first press), C (second press)
-  - **Expected Output**: Clear current display and reset calculator
-  - ![Clear Functionality](screenshots/test_case_4.png)
+- **Test Case 4**: Basic Division
+  - **Input**: 20 / 4
+  - **Expected Output**: 5
+  - ![Basic Division](https://github.com/HJHitesh/MyCalculator_Andriod/blob/master/app/sampledata/Division.png)
 
